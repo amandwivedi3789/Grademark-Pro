@@ -77,15 +77,3 @@ Authentication, subject-wise marks, GPA/CGPA, charts, export to PDF/CSV, databas
 
 ### Academic Submission
 This repository is organized to support the VITyarthi Build Your Own Project submission requirements. The detailed project report is in `docs/GradeMark_Pro_Project_Report.pdf`.
-
-## VITyarthi Submission Files
-- `statement.md` — problem statement, scope, target users and high-level features.
-- `docs/VITyarthi_Requirement_Mapping.md` — requirement-to-project mapping.
-- `docs/GradeMark_Pro_Project_Report.pdf` — detailed project report.
-- `docs/diagrams/` — architecture, workflow, use case, class/component, sequence and ER/storage diagrams.
-- `docs/testing_report.md` — automated and manual testing plan.
-- `GITHUB_SETUP.md` — repository setup steps.
-- `SUBMISSION_CHECKLIST.md` — final submission checklist.
-
-## Student Details
-Update the report cover with your name, registration/roll number, course/subject, faculty/instructor, institution and academic year/semester before submission.
